@@ -1,2 +1,2 @@
 # MouseOverParallax.js
-Simple mouse position-based element parallax
+Simple parallaxing based on your mouse position relative to the element.
